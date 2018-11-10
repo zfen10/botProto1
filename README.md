@@ -1,0 +1,3 @@
+# botProto1
+
+Rules: 
